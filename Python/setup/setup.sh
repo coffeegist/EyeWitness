@@ -10,6 +10,7 @@ geckodriver_x86_32='https://github.com/mozilla/geckodriver/releases/download/v0.
 
 # Setting environment variables
 export TERM=linux
+export DEBIAN_FRONTEND=noninteractive
 
 # Clear Terminal (For Prettyness)
 clear
